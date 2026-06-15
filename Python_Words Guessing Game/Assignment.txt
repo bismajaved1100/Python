@@ -1,0 +1,5 @@
+5. Possible Stretch Goals
+    . Limit the number of guesses.
+    . Show all past guesses.
+    . Give more detailed hints (e.g., which letters are correct).
+    . Add a "play again" feature.
